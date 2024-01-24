@@ -1,0 +1,21 @@
+main {
+  background-color: #1e1e1e;
+}
+
+h1 {
+  color: #fafafa;
+}
+
+input, textarea, select {
+  color: #fafafa;
+  background-color: #2e2d3d;
+}
+
+label {
+  color: #afb2bf;
+}
+
+button {
+  background-color: #6c38cc;
+  color: #fafafa;
+}
