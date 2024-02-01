@@ -26,6 +26,7 @@ h1 {
 }
 
 input, textarea, select {
+  width: 100%;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
